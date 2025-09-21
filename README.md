@@ -8,3 +8,7 @@ Minecraft Spigot Plugin
 権限設定等は現状ありません
 
 <img width="378" height="38" alt="infomation-01" src="https://github.com/user-attachments/assets/40d7f4ea-af22-477c-87aa-e1053fd6096e" />
+
+# バグ対応等 / For Bug Fix
+Issueを投げてくれればおそらく対応します
+Pull Req. も同様
