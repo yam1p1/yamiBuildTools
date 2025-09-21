@@ -1,0 +1,6 @@
+name: yamiBuildTools
+version: '1.0.0'
+main: io.github.yam1p1.yamiBuildTools.YamiBuildTools
+api-version: '1.18'
+authors: [ yamipi ]
+description: Building Assistant Plugin

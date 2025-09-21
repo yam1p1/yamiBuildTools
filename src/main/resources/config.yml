@@ -1,0 +1,8 @@
+#デフォルトテレポート距離 / Default Teleport Distance
+default_teleport_distance: 10
+
+
+#以下変更非推奨 / Do not Change
+message:
+  teleport_distance_change: "§e移動距離を§c%distance%§emに変更しました"
+  teleport_distance_not_changed: "§c移動距離は1m未満に設定できません"
